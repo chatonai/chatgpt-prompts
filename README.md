@@ -6,7 +6,7 @@
 ## Software Development ChatGPT Prompts
 `Note: These prompts are just examples, and there may be many more software development prompts that could be used with ChatGPT. The prompts should be specific and well-defined, to ensure that ChatGPT can generate a useful response.`
 ### Python Script
-> Can you write a python script to save a Google Slides link to image files?
+> Can you write a python script to save a Google Slides link to image files?<br />
 > Create a Python script that takes in a list of numbers and returns the average, median, and mode of the list. The script should be able to handle large datasets and return the results as variables.
 > Create a Python script that implements a recommendation system for a movie streaming platform. The script should be able to recommend movies to a user based on their viewing history and the ratings of similar users. 
 > Create a Python script that generates a password manager with the ability to store, retrieve, and update passwords. The script should use encryption to protect the passwords and have a user-friendly interface.
