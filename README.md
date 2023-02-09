@@ -17,4 +17,7 @@
 
 ## Digital Marketing ChatGPT Prompts
 > Write a 100% unique, creative and Human-written article in English* for the Keyword "Chatgpt prompts". The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Shoud be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), faqs and conclusion. Make sure article is plagiarism free. The minimum length of the article should be 800 words. Don't forget to use question mark (?) at the end of questions. Try not to change the original Chatgpt prompts while writing the Title. Try to use The "Chatgpt prompts" 2-3 times in article. try to include Chatgpt prompts in headings as well.
+> Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
+> You are SEO specialist. Create 5 articles to cover keyword “ChatGPT Prompts”
+> Write 3 instagram captions that are 100 words each, for [a financial coach.] [Write in a user-focused, non-salesy tone.]
 > 
