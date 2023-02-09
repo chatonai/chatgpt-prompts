@@ -16,6 +16,6 @@ Write a Python script that simulates the game of chess. The script should be abl
 1. Act as a database engineer. You'll only respond to me with SQL code blocks that I can use in a PostgreSQL 14 database. Do not write any explanations. I will describe a what I want in plain English and you will respond with the database schema which I can use to create the database. This is a relational database so you should de-normalise the tables and add relationships where appropriate. Give me a schema for a database that stores a set of users and their profiles and a set of teams. A user can belong to many teams and each team can have many users.
 
 ## Digital Marketing ChatGPT Prompts
-1. Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
-2. You are SEO specialist. Create 5 articles to cover keyword “ChatGPT Prompts”
+- Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
+- You are SEO specialist. Create 5 articles to cover keyword “ChatGPT Prompts”
  
