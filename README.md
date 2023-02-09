@@ -16,7 +16,9 @@
 > Act as a database engineer. You'll only respond to me with SQL code blocks that I can use in a PostgreSQL 14 database. Do not write any explanations. I will describe a what I want in plain English and you will respond with the database schema which I can use to create the database. This is a relational database so you should de-normalise the tables and add relationships where appropriate. Give me a schema for a database that stores a set of users and their profiles and a set of teams. A user can belong to many teams and each team can have many users.
 
 ## Digital Marketing ChatGPT Prompts
-> Write a 100% unique, creative and Human-written article in English* for the Keyword "Chatgpt prompts". The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Shoud be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), faqs and conclusion. Make sure article is plagiarism free. The minimum length of the article should be 800 words. Don't forget to use question mark (?) at the end of questions. Try not to change the original Chatgpt prompts while writing the Title. Try to use The "Chatgpt prompts" 2-3 times in article. try to include Chatgpt prompts in headings as well.
+> Write a 100% unique, creative and Human-written article in English* for the Keyword "Chatgpt prompts". 
+The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Shoud be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), faqs and conclusion. Make sure article is plagiarism free. 
+The minimum length of the article should be 800 words. Don't forget to use question mark (?) at the end of questions. Try not to change the original Chatgpt prompts while writing the Title. Try to use The "Chatgpt prompts" 2-3 times in article. Try to include Chatgpt prompts in headings as well.
 > Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
 > You are SEO specialist. Create 5 articles to cover keyword “ChatGPT Prompts”
  
