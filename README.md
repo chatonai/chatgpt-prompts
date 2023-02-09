@@ -4,3 +4,6 @@
 <p>In conclusion, the ChatGPT Prompts Repository on GitHub is a valuable resource for anyone interested in learning about or working with OpenAI's ChatGPT. Whether you're a copywriter, a marketer, a data analyst, or just someone looking for inspiration, this repository has something for you. With its collection of diverse prompts and its commitment to excellence, it's the perfect place to start exploring the full potential of ChatGPT and unleash your creativity.</p>
 
 ## Software Development ChatGPT Prompts
+Note: These prompts are just examples, and there may be many more software development prompts that could be used with ChatGPT. The prompts should be specific and well-defined, to ensure that ChatGPT can generate a useful response.
+### Python Script
+> Can you write a python script to save a Google Slides link to image files?
