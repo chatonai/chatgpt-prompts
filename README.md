@@ -3,4 +3,4 @@
 <p>The prompts in the repository are designed to showcase the capabilities of ChatGPT and help users understand how the model works. Some prompts may be straightforward, while others may be more complex and require ChatGPT to apply its advanced language processing skills. Regardless of their difficulty, all of the prompts are designed to inspire users and showcase the limitless possibilities of ChatGPT.</p>
 <p>In conclusion, the ChatGPT Prompts Repository on GitHub is a valuable resource for anyone interested in learning about or working with OpenAI's ChatGPT. Whether you're a copywriter, a marketer, a data analyst, or just someone looking for inspiration, this repository has something for you. With its collection of diverse prompts and its commitment to excellence, it's the perfect place to start exploring the full potential of ChatGPT and unleash your creativity.</p>
 
-# Software Development ChatGPT Prompts
+## Software Development ChatGPT Prompts
