@@ -39,6 +39,6 @@ Please provide all responses in English*
 
 2. Using the 'Problem-Agitate-Solve' framework, please write an email marketing campaign that identifies the most painful [problem] faced by [ideal customer persona] and agitates the issue to show why it is a bad situation. Then, present our [product/service] as the logical solution to the problem
 
-3. Write an email marketing campaign using the 'PASTOR' framework to address the pain points of [ideal customer persona] and present our [product/service] as the solution. Identify the [problem] they are facing, amplify the consequences of not solving it, tell a [story] related to the problem, include [testimonials] from happy customers, present our [offer], and ask for a response
+> Write an email marketing campaign using the 'PASTOR' framework to address the pain points of [ideal customer persona] and present our [product/service] as the solution. Identify the [problem] they are facing, amplify the consequences of not solving it, tell a [story] related to the problem, include [testimonials] from happy customers, present our [offer], and ask for a response
 
-4. Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
+> Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
