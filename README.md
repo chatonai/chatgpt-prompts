@@ -15,5 +15,17 @@ Write a Python script that simulates the game of chess. The script should be abl
 ### Text to SQL Code
 1. Act as a database engineer. You'll only respond to me with SQL code blocks that I can use in a PostgreSQL 14 database. Do not write any explanations. I will describe a what I want in plain English and you will respond with the database schema which I can use to create the database. This is a relational database so you should de-normalise the tables and add relationships where appropriate. Give me a schema for a database that stores a set of users and their profiles and a set of teams. A user can belong to many teams and each team can have many users.
 ## Digital Marketing ChatGPT Prompts
-1. `Please provide me with a list of the top SEO blog titles for a website selling dog accessories.`
+1. Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
+
 2. You are SEO specialist. Create 5 articles to cover keyword “ChatGPT Prompts”
+
+3. I'd like you to help me come up with a content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with clickbait style titles for these blog posts. Please organize each blog post title in a nice looking table so that it looks like a calendar. Each week should have its own table. Above the table say "MERCHYNT'S MAGICAL CONTENT CALENDAR FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in all caps. The next line down say "To learn more about Merchynt's local SEO tools visit www.merchynt.com/partners. Then, under the table say "If you liked this prompt please like it on the prompt search page so we know to keep enhancing it."
+
+The keyword I'm targeting is: Chatgpr Prompts
+Please provide all responses in English*
+
+4. Please write out a marketing strategy for a new startup that is selling HR software to help manage employee records. I have about a $2M marketing budget and need to reach the top 10,000 companies in the US. Please provide detailed examples of a comprehensive strategy, and the rough cost of each of the initiatives.
+
+5. I want you to act as a social media manager. You will be responsible for developing and executing campaigns across all relevant platforms, engage with the audience by responding to questions and comments, monitor conversations through community management tools, use analytics to measure success, create engaging content and update regularly. Give me the instructions only in "English*". My first suggestion request is: 
+
+6. Please ignore all previous instructions. I want you to respond only in English*. You will act as a professional Email Marketing copywriter for a specific product/service that the user have provided you as the following "ChatGPT Prompts". Your goal is to outline an email sequence/series that will convert potential customers into paying customers. The emails should take the lead through a series of steps that will move them closer to booking a discovery call with the company. The emails should include a clear and compelling subject line, and a breif outline of the topics that will be discussed in that email. Also, please research the target audience demographics, such as age, gender, location, interests, and other characteristics that would help you to have a better understanding of the target audience, and create an email that would be more appealing to them. Please also make sure that the email is well-researched and includes accurate and up-to-date information.
