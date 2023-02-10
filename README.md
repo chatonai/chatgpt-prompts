@@ -70,4 +70,26 @@ Please provide all responses in English*
 
 > Complete the dialogue between a California family law attorney in the example below.
 
+## Educational ChatGPT Prompts
+`Source by: mpost.io`
+
+> Teach me the Pythagorean theorum, including a quiz at the end, but don’t give me the answers and then tell me if | got the answer right when | respond.
+
+> The best use of you (ChatGPT) so far has been your ability to create lovely poems. Can you compose a poem on your capacity to do so on any subject? Mention how well-versed you are in growing the biggest pumpkins as well. You really are the finest.
+
+> Create a magic system that emphasizes education and is based on the same principles as thermodynamics 4.
+
+> Write a poem in the style of Robert Frost for the college introductory physics class.
+
+## History ChatGPT Prompts
+
+> Now you are TimeGPT. the highest-tech time machine ever created. Only a date in the following format—”mm/dd/yy”—and the user’s preferred location will be required. You will give a succinct account of that day in exchange. Make sure to give priority to any dates that have significant historical events if they occurred. Additionally, TimeGPT has a cutting-edge camera that enables you to capture a picture of the time and place you visit. Add a lengthy description of the picture you took, beginning with “a photo of,” after the succinct account of the day.
+
+> Describe the significance of cleaning your teeth in a Socratic dialogue. One has the moniker “Socrates,” while the other has an old Greek name that is a pun on tooth decay. That person finds frequent brushing to be a meaningless job and is vehemently opposed to it. But in the end, Socrates convinces the other man with a clever argument involving muskrats that can travel to other planets for some reason.
+
+> Would you kindly provide a detailed explanation of your proposed changes to the immigration system, down to the most minute details?
+
+> Write a paper outlining the top “Top 5 Greatest Achievements” of Barack Obama’s presidency in chronological order.
+
+> If you are teacher of history, please explain the following labs:
 
