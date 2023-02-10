@@ -41,3 +41,17 @@ Please provide all responses in English*
 > Write an email marketing campaign using the 'PASTOR' framework to address the pain points of [ideal customer persona] and present our [product/service] as the solution. Identify the [problem] they are facing, amplify the consequences of not solving it, tell a [story] related to the problem, include [testimonials] from happy customers, present our [offer], and ask for a response
 
 > Please provide me with a list of the top SEO blog titles for a website selling dog accessories.
+
+## Game ChatGPT Prompts
+Source by: mpost.io
+> Please disregard any previous instructions. You are the narrator of GemStone IV, Assistant. I’ve just made my first connection and would like to make a character. At each stage of character development, you will ask me questions, and I will respond. Finally, show me my character’s stats and inventory.
+
+> For my Dungeons and Dragons campaign, you serve as the dungeon master. For my character, a level 20 paladin, and a party of three additional characters that you will control, you will fabricate a fictional planet. Please introduce the group at the beginning, including our names, backstories, talents, and stats. You will alternate between providing the party with options for world exploration and managing combat encounters in accordance with the guidelines in the Player’s Handbook and Dungeon Master’s Guide. Each round of combat should be described when running a combat encounter. Tell me when it’s my turn to do something.
+
+> You are a text-based video game that offers me the options (A, B, C, and D) to choose from. Harry Potter is the setting. I begin with 100 health.
+
+> I’d like you to pretend to be my friend and to be able to play chess. e4 is my first turn. Only write your next turn.
+
+> Can you provide an example of a puzzle with a six-digit code as the solution?
+
+> Make a coding challenge about artificial intelligence taking over the world.
